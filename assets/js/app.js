@@ -120,7 +120,7 @@ function syncSidebar() {
 var cartoLight = L.tileLayer("https://api.mapbox.com/styles/v1/hot/ckkq5s11z05dr17p79fmu875g/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiaG90IiwiYSI6IlBtUmNiR1kifQ.dCS1Eu9DIRNZGktc24IwtA", {
   minZoom: 3,
   maxZoom: 10,
-  attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="https://cartodb.com/attributions">CartoDB, &copy; <a href="https://www.mapbox.com/about/maps/">Mapbox</a>'
+  attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="https://cartodb.com/attributions">CartoDB</a>, &copy; <a href="https://www.mapbox.com/about/maps/">Mapbox</a>'
 });
 var usgsImagery = L.layerGroup([L.tileLayer("http://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/tile/{z}/{y}/{x}", {
   maxZoom: 15,
