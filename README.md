@@ -2,4 +2,4 @@
 
 
 
-It is powered by ***[Bryan McBride's](https://github.com/bmcbride)*** BootLeaf template. 
+This interactive map is powered by ***[Bryan McBride's](https://github.com/bmcbride)*** BootLeaf template. 
