@@ -188,6 +188,15 @@ input[type="radio"], input[type="checkbox"] {
   padding: 15px;
 }
 
+
+.mapbox-attribution-container {
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  display: block;
+  margin: 0 10 5;
+}
+
 mapbox-logo {
   position: absolute;
   display: block;
