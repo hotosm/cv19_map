@@ -197,12 +197,12 @@ input[type="radio"], input[type="checkbox"] {
   margin: 0 10 5;
 }
 
-mapbox-logo {
+.mapbox-logo {
   position: absolute;
   display: block;
   height: 20px;
   width: 65px;
-  left: 90px;
+  left: 14%;
   bottom: 10px;
   text-indent: -9999px;
   z-index: 99999;
